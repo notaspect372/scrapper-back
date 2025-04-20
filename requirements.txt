@@ -2,4 +2,3 @@ requests
 beautifulsoup4
 groq
 phi
-python-3.10.13
