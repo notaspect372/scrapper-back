@@ -1,0 +1,9 @@
+[project]
+name = "agentic-phidata"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "phidata>=2.7.10",
+]
